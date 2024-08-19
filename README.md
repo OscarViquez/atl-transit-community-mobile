@@ -48,3 +48,29 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+### Git Branch Template
+
+create station
+
+feature/<number-of-ticket>-<name-of-ticket>
+bugfix/<number-of-ticket>-<name-of-ticket>
+
+
+
+
+### Git Commit Template
+
+
+feature or bugfix(<number-of-ticket>) :  Write an overview on what you have done so far, and why make this changes  ( double space please, to create a new line )         
+
+OPTIONAL: Write bullet points to support the overview description
+
+- Service Worker     
+- icons   
+- ngsw-config.json   
+- manifest.json    
+
+
+
+ 
